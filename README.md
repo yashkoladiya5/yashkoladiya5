@@ -1,6 +1,17 @@
-# 💫 About Me:
-Flutter Lead Engineer with 3+ years of experience building and shipping <br>production-grade mobile applications — 35+ apps live on the Google Play <br>Store and Apple App Store across ride-booking, food delivery, healthcare, <br>e-commerce, and OTT verticals.<br><br>I don't just write Flutter code — I own products end-to-end. From <br>architecture decisions and team leadership to app signing, store <br>compliance, and post-launch support. Every app I've worked on has <br>shipped.<br><br>Currently focused on AI-integrated mobile experiences using Google <br>Gemini 2.5, Clean Architecture, and BLoC — building Flutter apps that <br>are production-stable, scalable, and ready for real users.
+<div align="center">
 
+# Hey, I'm Yash 👋
+### Flutter Lead Engineer · 35+ Apps Shipped · AI-Integrated Mobile
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Flutter+Lead+Engineer;35%2B+Apps+Live+on+Play+%26+App+Store;AI-Integrated+Mobile+Experiences;Clean+Architecture+%7C+BLoC+%7C+Gemini+2.5" alt="Typing SVG" />
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+### 🚀 About Me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-koladiya-a062592b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashkoladiya5@gmail.com) 
